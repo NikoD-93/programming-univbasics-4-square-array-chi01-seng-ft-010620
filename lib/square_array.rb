@@ -1,8 +1,8 @@
 def square_array(array)
   counter = 0
-  square = array[counter]** counter
+  
   while counter < array.length do
-  puts square 
+  puts  
   counter += 1
 end
 
